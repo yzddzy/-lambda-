@@ -1,0 +1,1 @@
+(lambda f: lambda x: f (f (f x))) (lambda f: lambda x: f (f (f x))) (lambda y: 1 + y) 0
